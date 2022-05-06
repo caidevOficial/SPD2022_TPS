@@ -1,6 +1,10 @@
 
-# Grupo: Universo 7
-## Integrantes:
+# Sistemas de Procesamiento de Datos
+
+---
+
+## Grupo: Universo 7
+### Integrantes:
 * Vegita
 * Kakarot
 * Frieza
@@ -8,7 +12,7 @@
 
 ---
 
-## TP_01 | Cronometro Binario
-### Link: [Link a Tinker Publico]
+### TP_01 | Cronometro Binario
+#### Link: [Link a Tinker Publico]
 
 ---
