@@ -3,7 +3,7 @@
 
 ---
 
-## Grupo: Universo 7
+## Grupo: Universe 7
 ### Integrantes:
 * Vegita
 * Kakarot
